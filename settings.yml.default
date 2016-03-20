@@ -1,0 +1,8 @@
+# settings
+# copy this file as settings.yml
+
+default:
+    region: ap-northeast-1
+    bucketname: example-bucket
+    access_key_id: sample_access_key
+    secret_access_key: sample_secret_access_key
