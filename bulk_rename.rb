@@ -1,5 +1,5 @@
 # rename entire objects in specified bucket
-#   ( hogehoge.txt => hogehoge.md )
+#   ( hogehoge.txt => hogehoge.txt.md )
 
 require 'bundler'
 require 'yaml'
